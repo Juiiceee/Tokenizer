@@ -4,3 +4,9 @@
 [submodule "code/lib/openzeppelin-contracts"]
 	path = code/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "deployment/lib/forge-std"]
+	path = deployment/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "deployment/lib/openzeppelin-contracts"]
+	path = deployment/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
