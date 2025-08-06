@@ -5,5 +5,5 @@
 * 
 ---
 Abitrum sepolia
-Address 0x8b017b2794180fb543673c2746bc3f5d4c1678a1
-https://sepolia.arbiscan.io/token/0x8b017b2794180fb543673c2746bc3f5d4c1678a1
+Address 0x6ed79985e8bc3891de6a4bdf866656b5ecba90de
+https://sepolia.arbiscan.io/token/0x6ed79985e8bc3891de6a4bdf866656b5ecba90de
